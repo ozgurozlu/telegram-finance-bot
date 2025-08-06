@@ -1,14 +1,11 @@
 pandas
 numpy
 yfinance
-
 scikit-learn
 tensorflow
 xgboost
 plotly
 kaleido
 requests
-
 flask
-
-
+pyTelegramBotAPI
