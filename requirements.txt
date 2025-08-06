@@ -1,0 +1,11 @@
+pandas
+numpy
+yfinance
+TA-Lib
+scikit-learn
+tensorflow
+xgboost
+plotly
+kaleido
+requests
+flask
