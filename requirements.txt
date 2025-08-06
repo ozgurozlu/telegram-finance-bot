@@ -1,7 +1,7 @@
 pandas
 numpy
 yfinance
-TA-Lib
+
 scikit-learn
 tensorflow
 xgboost
@@ -10,4 +10,5 @@ kaleido
 requests
 
 flask
+
 
