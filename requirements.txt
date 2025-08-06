@@ -1,7 +1,7 @@
 pandas
 numpy
 yfinance
-TA-Lib @ https://github.com/cgohlke/talib-builds/releases/download/v0.4.28/TA_Lib-0.4.28-cp313-cp313-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+TA-Lib
 scikit-learn
 tensorflow
 xgboost
@@ -10,3 +10,4 @@ kaleido
 requests
 
 flask
+
